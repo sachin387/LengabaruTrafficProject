@@ -1,0 +1,9 @@
+Lengaburu Traffic project is created keeping in mind the readable, extensibility of the code. 
+
+There are few assumption made while designing the code.
+
+1) Starting city is always Silk Dorb.
+
+2) King Shan visit all the cities. 
+
+3) Input format is kept as same as given in sample.
